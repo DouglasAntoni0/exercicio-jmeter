@@ -93,6 +93,10 @@ Performance testing não é apenas “rodar carga”. Um bom teste começa com p
 
 Este repositório trabalha a base desse raciocínio.
 
+## Critérios de aceite para evolução
+
+Uma evolução natural deste exercício seria definir thresholds explícitos, como percentual máximo de erro e tempo de resposta aceitável. Isso transforma a execução em uma decisão objetiva de qualidade, aproximando o plano de um teste automatizado de performance.
+
 ## Resultado técnico
 
 Este repositório evidencia visão de qualidade voltada a comportamento sob carga e uso de dados parametrizados. Mesmo como exercício, ele reforça uma habilidade importante para QA: transformar uma hipótese de performance em plano executável e repetível.
